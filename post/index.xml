@@ -2,20 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Rysnanto</title>
+    
+    
+    
     <link>https://arysn.github.io/post/</link>
     <description>Recent content in Posts on Rysnanto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
     <copyright>2021- Tutup </copyright>
-    <lastBuildDate>Sat, 20 Mar 2021 09:17:55 +0000</lastBuildDate><atom:link href="https://arysn.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Mar 2021 09:17:55 +0000</lastBuildDate>
+    
+	<atom:link href="https://arysn.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Belajar Javascript Bagian Pertama</title>
       <link>https://arysn.github.io/post/belajar-javascript-bagian-pertama/</link>
       <pubDate>Sat, 20 Mar 2021 09:17:55 +0000</pubDate>
       
       <guid>https://arysn.github.io/post/belajar-javascript-bagian-pertama/</guid>
-      <description>Apakah kalian tau yang akan ku bahas di ketikan saya hari ini? kalo belum tahu sini aku kasih tau&amp;hellip; , Saya mau membuat tulisan mengenai proses belajar javascript di progate.com , berhubung ada ilmu yang bisa sampaikan disini jadi pengen share tentang ilmu tersebut yaitu dasar javascript
-Sebelumnya apakah kamu sudah mempunyai text editor ? seperti sublime , vscode dan lain lain ? , kalo belum siapin dulu software pendukung nya seperti browser dan text editormu.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Apakah kalian tau yang akan ku bahas di ketikan saya hari ini? kalo belum tahu sini aku kasih tau&amp;hellip; , Saya mau membuat tulisan mengenai proses belajar javascript di progate.com , berhubung ada ilmu yang bisa sampaikan disini jadi pengen share tentang ilmu tersebut yaitu dasar javascript
+Sebelumnya apakah kamu sudah mempunyai text editor ? seperti sublime , vscode dan lain lain ? , kalo belum siapin dulu software pendukung nya seperti browser dan text editormu.
+          
+        
+        </description>
     </item>
     
     <item>
@@ -24,9 +42,20 @@ Sebelumnya apakah kamu sudah mempunyai text editor ? seperti sublime , vscode da
       <pubDate>Sat, 20 Mar 2021 07:51:53 +0000</pubDate>
       
       <guid>https://arysn.github.io/post/code-editor-untuk-hp-dan-laptop/</guid>
-      <description>Sebelum nya di artikel saya , kita kan membasah front-end webdev , nah kan untuk menjadi semorang developer bagian ini harus menguasai tiga bahasa pemrogaman yaitu html ,css dan javascript
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Sebelum nya di artikel saya , kita kan membasah front-end webdev , nah kan untuk menjadi semorang developer bagian ini harus menguasai tiga bahasa pemrogaman yaitu html ,css dan javascript
 Nah untuk alat ngoding nya sendiri gimana? Disini saya sudah merangkum alat ngoding yang ada di android dan di pc / laptop
-Saya sebagai user android , saya dahulukan terlebih dahulu alat ngoding yang ada di android terbaik menurut saya ya !</description>
+Saya sebagai user android , saya dahulukan terlebih dahulu alat ngoding yang ada di android terbaik menurut saya ya !
+          
+        
+        </description>
     </item>
     
     <item>
@@ -35,7 +64,18 @@ Saya sebagai user android , saya dahulukan terlebih dahulu alat ngoding yang ada
       <pubDate>Sat, 20 Mar 2021 06:59:24 +0000</pubDate>
       
       <guid>https://arysn.github.io/post/website-baru/</guid>
-      <description>Hai! , Ini Merupakan website baru saya di tahun 2021 setelah sekian lama memakai cms blogger , di saat ini saya menggunakan cms hugo , apakah kamu tau apa itu Hugo? Kamu bisa baca sendiri di google . Hehe canda biar aku yang sharing dan ku tempel disini yah! Bentar Hugo adalah generator web statis yang ditulis dalam bahasa pemrograman Go , eits walaupun di buat dalam bahasa golang kalian gak perlu belajar bahasa program golang , cukup belajar html , css dan js pun sudah cukup</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Hai! , Ini Merupakan website baru saya di tahun 2021 setelah sekian lama memakai cms blogger , di saat ini saya menggunakan cms hugo , apakah kamu tau apa itu Hugo? Kamu bisa baca sendiri di google . Hehe canda biar aku yang sharing dan ku tempel disini yah! Bentar Hugo adalah generator web statis yang ditulis dalam bahasa pemrograman Go , eits walaupun di buat dalam bahasa golang kalian gak perlu belajar bahasa program golang , cukup belajar html , css dan js pun sudah cukup
+          
+        
+        </description>
     </item>
     
   </channel>
