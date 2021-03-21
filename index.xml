@@ -10,10 +10,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
     <copyright>2021- Tutup </copyright>
-    <lastBuildDate>Sat, 20 Mar 2021 09:17:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Mar 2021 02:44:25 +0000</lastBuildDate>
     
 	<atom:link href="https://arysn.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Install Hugo Di Termux</title>
+      <link>https://arysn.github.io/post/install-hugo-di-termux/</link>
+      <pubDate>Sun, 21 Mar 2021 02:44:25 +0000</pubDate>
+      
+      <guid>https://arysn.github.io/post/install-hugo-di-termux/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://raw.githubusercontent.com/arysn/images/main/20210321_104034.jpg&#34;/&gt;
+          
+        
+        
+        
+          Membuat Blog Pakai Hugo Di Termux
+Eumm Pernah kah kalian ngeblog pakai terminal? Kalau saya ini merupakan pertama kali sejak saya ngeblog , dulu kalau saya ngeblog menggunakan cms dari google yaitu blogger kadang juga pakai wordpress .
+Blogger lah yang menemani ngeblog saya sampai website https://golek-artikel.com mendapatkan iklan dari google adsense , dan Sekarang website nya gak keurus lagi.
+Saya coba cari cari di google tentang membuat website dengan SSG , dan akhir nya saya kepincut pengen coba , Dan saya pertama kali menggunakan hugo .
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Belajar Javascript Bagian Pertama</title>
