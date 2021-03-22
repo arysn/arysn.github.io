@@ -261,13 +261,20 @@ Sebelumnya apakah kamu sudah mempunyai text editor ? seperti sublime , vscode da
 
     
       
-        
-To add comments section, please create `layouts/partials/comments.html` in your
-Hugo directory and insert:
+        <div id="disqus_thread"></div>
+<script>
+    
 
+    
 
-
-or whatever comment engine you want -> https://gohugo.io/content-management/comments/#readout 
+    (function() { 
+    var d = document, s = d.createElement('script');
+    s.src = 'https://arysdev.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
       
     
