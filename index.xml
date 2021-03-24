@@ -10,10 +10,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
     <copyright>Copyright 2021 By 💓 Rysnanto</copyright>
-    <lastBuildDate>Tue, 23 Mar 2021 06:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 09:55:53 +0000</lastBuildDate>
     
 	<atom:link href="https://arysn.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mempercepat Loading page/halaman dengan lazyload</title>
+      <link>https://arysn.github.io/post/mempercepat-loading-page-dengan-img-lazy-load/</link>
+      <pubDate>Wed, 24 Mar 2021 09:55:53 +0000</pubDate>
+      
+      <guid>https://arysn.github.io/post/mempercepat-loading-page-dengan-img-lazy-load/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://raw.githubusercontent.com/arysn/images/main/20210324_171003.jpg&#34;/&gt;
+          
+        
+        
+        
+          Lazy load merupakan atribut yang berfungsi menunda pemuatan kontent , seperti apa itu lazy load?
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Hasil Design Ui landing page menggunakan figma</title>
