@@ -10,10 +10,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
     <copyright>Copyright 2021 By 💓 Rysnanto</copyright>
-    <lastBuildDate>Wed, 24 Mar 2021 09:55:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 15:15:34 +0000</lastBuildDate>
     
 	<atom:link href="https://arysn.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cara Membatasi Penggunaan sosial media maupun Games</title>
+      <link>https://arysn.github.io/post/cara-membatasi-penggunaan-sosial-media/</link>
+      <pubDate>Wed, 24 Mar 2021 15:15:34 +0000</pubDate>
+      
+      <guid>https://arysn.github.io/post/cara-membatasi-penggunaan-sosial-media/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://raw.githubusercontent.com/arysn/images/main/20210324_221235.jpg&#34;/&gt;
+          
+        
+        
+        
+          kecanduan bermain hp? batasi penggunaan sosial media maupun game
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Mempercepat Loading page/halaman dengan lazyload</title>
